@@ -1,6 +1,7 @@
 ## Help + Testing
 
 The steps below will take you all the way through concerning setting up cypress recruitment tasks.
+The code was written commentless as I saw no need to provide comments especially considering test nature of those projects.
 
 [Here is the figma task link.](https://www.figma.com/proto/IR2ZuAVE4ha3RjKaDsEvtf/Untitled?node-id=15-42&scaling=scale-down&page-id=0%3A1)
 
