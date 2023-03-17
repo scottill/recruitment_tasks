@@ -3,6 +3,7 @@
 The steps below will take you all the way through concerning setting up cypress recruitment tasks.
 
 [Here is the figma task link.](https://www.figma.com/proto/IR2ZuAVE4ha3RjKaDsEvtf/Untitled?node-id=15-42&scaling=scale-down&page-id=0%3A1)
+
 python task is also provided in this repository.
 
 ### 1. Install Cypress
