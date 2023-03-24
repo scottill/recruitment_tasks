@@ -1,6 +1,6 @@
 describe('form spec', () => {
 
-    const confirmPass = Math.random().toString(20).substring(2, 10)
+    const missMatch = Math.random().toString(20).substring(2, 10)
 
     beforeEach(() => {
         cy.visit(' https://discover.arx.city/auth?signup=true')
@@ -28,7 +28,7 @@ describe('form spec', () => {
     })
 
     it('User password and confirm password field have mismatching inputs', () => {
-        cy.get('[data-testid="form:confirm-password"]').type(confirmPass)
+        cy.get('[data-testid="form:confirm-password"]').type(missMatch)
         cy.get('[data-testid="form:checkbox"]').click()
     })
 })
