@@ -19,5 +19,5 @@ import project files directly to your cypress e2e folder
 
 ### 3. IMPORTANT!!!
 
-remember to set all the passwords and confirm passwords correctly for the first test to run properly.
+remember to set all the passwords correctly for the first test to run properly.
 
